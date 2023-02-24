@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.brand {
+    background-color: white;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
